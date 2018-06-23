@@ -5,7 +5,7 @@ Google reCaptcha 2.0 for PHP
 ## Installation
 
 ```bash
-composer require skillaug/reCaptcha "1.0.0"
+composer require skillaug/re-captcha "1.0.0"
 ```
 ## Usage
 
